@@ -1,70 +1,64 @@
-# Your project title
+# The Fluffy Piranha Blog, First Year Exam Project
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+![Homepage Preview](/report_documentation/site_preview.jpg)
 
-A simple overview of the use/purpose of the project.
+A fictional project for online outdoor jacket sales company Rainydays on ongoing assignment spanning multiple courses hand ins for Noroff.
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
+The aim of the project was to create a blog website and fill the site content using WordPress REST API. With the additional aim to create a good user experience for the blogger adding content.
 
-You can add some bullet points if you'd like to:
+Development Stages
 
-- List item 1
-- List item 2
-- List item 3
+- Design website in adobeXD.
+- User test XD prototype.
+- Create website using HTML5, CSS3, andJavaScript.
+- Create and configure a WordPress installation to host blog post content.
+- User test and improve the design.
 
 ## Built With
 
-You can list a the tech stack that you've used over here
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&logoWidth=30&style=plastic)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&logoWidth=30&style=plastic)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&logoWidth=30&style=plastic)
+- ![WordPress REST API](https://img.shields.io/badge/-WordPress%20REST%20API-21759B?logo=wordpress&logoColor=white&logoWidth=30&style=plastic)
 
-- [React.js](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com)
+### Designed with
+
+- ![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe%20xd&logoColor=white&logoWidth=30&style=plastic)
 
 ## Getting Started
 
-### Installing
-
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
-
-1. Clone the repo:
-
-```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
-```
-
-2. Install the dependencies:
-
-```
-npm install
-```
-
-### Running
-
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
-
-To run the app, run the following commands:
-
-```bash
-npm run start
-```
-
-## Contributing
-
-Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate `CONTRIBUTING.md` and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
+[Live Version](https://deft-scone-ef0e91.netlify.app/index.html)
 
 ## Contact
 
-This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
-
-[My Twitter page](www.twitter.com)
-
-[My LinkedIn page](www.linkedin.com)
+[My LinkedIn page](https://www.linkedin.com/in/alexander-barrett-64568a47/)
 
 ## License
 
-You can link to your license file here if you're using one, or mention what license the codebase falls under. If you're unsure then you can simply delete this section.
+Copyright (c) 2022 Alexander Barrett
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## Acknowledgments
 
-This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
+### Accessibility
+
+WebAIM, “Invisible Content Just for Screen Reader Users”, Last updated: Sep 25, 2020. https://webaim.org/techniques/css/invisiblecontent/ [accessed: Mar – 2022]
