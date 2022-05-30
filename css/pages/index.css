@@ -1,0 +1,22 @@
+
+.index-heading {
+  height: 350px;
+  background-image: url("/images/leo_banner_small_alternate2.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: auto 100%;
+}
+
+@media only screen and (min-width: 850px) {
+  .index-heading {
+    height: 480px;
+    background-position: right center;
+  }
+}
+
+@media only screen and (min-width: 1100px) {
+  .index-heading {
+    background-position: center center;
+  }
+}
+

@@ -1,0 +1,35 @@
+h1{
+  margin-bottom: 10px;
+}
+
+.filters-sort{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 10px;
+}
+
+.filters-sort label {
+  display: inline-block;
+  font: var(--body);
+  min-width: 45px;
+}
+
+#sort,
+#filter{
+  margin-left: 10px;
+  font: var(--body);
+}
+
+.show-more-container{
+  text-align: center;
+}
+
+@media only screen and (min-width: 720px){
+  .no-results{
+  text-align: center;
+  grid-column: span 2;
+}
+}

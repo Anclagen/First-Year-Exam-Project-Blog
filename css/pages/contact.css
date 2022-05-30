@@ -1,0 +1,31 @@
+.extra-contact-info ul{
+  list-style: none;
+padding: 0;
+}
+
+.extra-contact-info ul li ul{
+  margin-left: 35px;
+}
+
+.extra-contact-info i{
+  font-size: 1.5rem;
+  color: var(--dark-brown);
+  margin-right: 20px;
+}
+
+.extra-contact-info li{
+  margin: 20px 0;
+}
+
+.error{
+  font-size: 1rem;
+}
+
+#contact-form input{
+  box-sizing: border-box;
+}
+
+#contact-form input:disabled{
+  opacity: 0.1;
+  pointer-events: none;
+}

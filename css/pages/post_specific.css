@@ -1,0 +1,126 @@
+.author-image img {
+  bottom: 0px;
+}
+
+/*------ image modal --------*/
+
+.image-modal-content{
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0.2);
+  position: fixed;
+  z-index: 10;
+  text-align: center;
+  color: white;
+  font-size: 1.5rem;
+  transition: all 0.4s ease-in;
+  opacity: 0;
+
+}
+
+.image-modal-content-expanded{
+  opacity: 1;
+  transform: translate(-50%, -50%) scale(1);
+}
+
+.modal-background-container{
+  display: none;
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(115, 68, 41, 0.9) ;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  cursor: pointer;
+}
+
+.image-modal{
+  max-width: 85vw;
+  max-height: 85vh;
+  display: block;
+}
+
+.featured-image,
+.modal-image{
+  cursor:pointer;
+}
+
+/*------- Comments Styling --------*/
+.comments-container div{
+  margin-top: 15px;
+  box-sizing: border-box;
+}
+
+.comment-right div,
+.comment-left div {
+  height: fit-content;
+  border: 2px solid var(--dark-brown);
+  background-color: white;
+  box-shadow: 1px 1px 2px;
+  border-radius: 5px;
+  overflow: hidden;
+  max-width: 96vw;
+}
+
+.comment-right p,
+.comment-left p {
+  padding: 10px;
+  margin: 0;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+.hidden-on-mobile{
+  display: none;
+}
+
+@media only screen and (min-width: 600px) {
+  /*------- Comments Styling --------*/
+  .comments-container{
+    margin-bottom: 20px;
+  }
+
+  .post-comment-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    max-width: 700px;
+    margin: 15px auto;
+    gap: 40px;
+    align-items: center;
+  }
+
+  .hidden-on-mobile{
+    display: block;
+  }
+
+  .comment-right div,
+  .comment-left div {
+    margin-left: auto;
+    margin-bottom: auto;
+    width: 90%;
+  }
+  .comment-right div{
+  margin-left: 0;
+  }
+
+    .comment-left,
+  .comment-right {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 10px;
+  }
+
+  .comment-left {
+    grid-template-columns: 1fr auto;
+  }
+
+  .comment-img{
+    display: block;
+    margin-top: auto;
+    width: 100%;
+    max-width: 100px;
+    transform: translateY(25px);
+  }
+}
