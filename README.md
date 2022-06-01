@@ -24,8 +24,16 @@ Development Stages
 
 ### CMS
 - ![WordPress REST API](https://img.shields.io/badge/-WordPress%20REST%20API-21759B?logo=wordpress&logoColor=white&logoWidth=30&style=plastic)
-  - **Plugins**
+  - **Plugins used:**
   - [Headless Mode](https://wordpress.org/plugins/headless-mode/)
+  - [Advanced Custom Fields](https://wordpress.org/plugins/headless-mode/](https://wordpress.org/plugins/advanced-custom-fields/)
+  - [Custom Post Types](https://wordpress.org/plugins/custom-post-type-ui/)
+  - [Custom Rest API Generator](https://wordpress.org/plugins/wp-custom-rest-api-generator/)
+  - [WP Media Libary Categories](https://wordpress.org/plugins/wp-media-library-categories/)
+  - [Contact form 7](https://wordpress.org/plugins/contact-form-7/)
+  - [Flamingo](https://wordpress.org/plugins/flamingo/)
+
+
 ### Designed with
 
 - ![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe%20xd&logoColor=white&logoWidth=30&style=plastic)
