@@ -2,11 +2,11 @@
 
 ![Homepage Preview](/report_documentation/site_preview.jpg)
 
-A fictional project for online outdoor jacket sales company Rainydays on ongoing assignment spanning multiple courses hand ins for Noroff.
+Design and create a blog, using WordPress as a headless CMS for the post content, as part of are end of first year exam for Noroff.
 
 ## Description
 
-The aim of the project was to create a blog website and fill the site content using WordPress REST API. With the additional aim to create a good user experience for the blogger adding content.
+The aim of the project was to create a blog website and fill the site content using WordPress CMS. With the additional aim to create a good user experience for the blogger adding content. The website needed to be responsive and easy to navigate. This is the handed in version of the project. The page content is pulled from WordPress. The blogger has the ability to update content on all pages on the site through the WordPress interface with no need for any coding knowledge. The readers can comment on posts, and fill in a contact form which is caught by the Flamingo plugin. 
 
 Development Stages
 
@@ -40,11 +40,22 @@ Development Stages
 
 ## Getting Started
 
-[Live Version](https://deft-scone-ef0e91.netlify.app/index.html)
+1. Simply clone the repo:
+
+```bash
+git clone https://github.com/Anclagen/First-Year-Exam-Project-Blog.git
+```
+
+## Contributing
+
+This project requires no contrubutions.
 
 ## Contact
 
-[My LinkedIn page](https://www.linkedin.com/in/alexander-barrett-64568a47/)
+[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/178264761199362048)
+
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/alexander-barrett-64568a47/)
 
 ## License
 
