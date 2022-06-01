@@ -21,8 +21,11 @@ Development Stages
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&logoWidth=30&style=plastic)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&logoWidth=30&style=plastic)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&logoWidth=30&style=plastic)
-- ![WordPress REST API](https://img.shields.io/badge/-WordPress%20REST%20API-21759B?logo=wordpress&logoColor=white&logoWidth=30&style=plastic)
 
+### CMS
+- ![WordPress REST API](https://img.shields.io/badge/-WordPress%20REST%20API-21759B?logo=wordpress&logoColor=white&logoWidth=30&style=plastic)
+-- **Plugins**
+--
 ### Designed with
 
 - ![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe%20xd&logoColor=white&logoWidth=30&style=plastic)
