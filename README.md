@@ -24,8 +24,8 @@ Development Stages
 
 ### CMS
 - ![WordPress REST API](https://img.shields.io/badge/-WordPress%20REST%20API-21759B?logo=wordpress&logoColor=white&logoWidth=30&style=plastic)
--- **Plugins**
---
+  - **Plugins**
+  - [Headless Mode](https://wordpress.org/plugins/headless-mode/)
 ### Designed with
 
 - ![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe%20xd&logoColor=white&logoWidth=30&style=plastic)
