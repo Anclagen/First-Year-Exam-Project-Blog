@@ -6,7 +6,13 @@ Design and create a blog, using WordPress as a headless CMS for the post content
 
 ## Description
 
-The aim of the project was to create a blog website and fill the site content using WordPress CMS. With the additional aim to create a good user experience for the blogger adding content. The website needed to be responsive and easy to navigate. This is the handed in version of the project. The page content is pulled from WordPress. The blogger can update content on all pages on the site through the WordPress interface with no need for any coding knowledge. The readers can comment on posts, and fill in a contact form which is caught by the Flamingo plugin. 
+The aim of the project was to create a blog website and fill the site content using WordPress CMS. With optional additional aims to create a good user experience for the blogger adding content as well as update all the pages content through WordPress. The website needed to be responsive, looking good on all screen sizes, easy to navigate and take into account accessibility. The technical project requirements were to include;
+- A post slider on the home page, atleast for desktop screen sizes.
+- On the blog list page 10 posts were to be displayed with a show more button for additional posts to be displayed
+- On a specific post page, clicking on any images would expand that image in a modal.
+- A contact form using JavaScript for validation.
+
+This is the handed in version of the project. The page content is pulled from WordPress. The blogger can update content on all pages on the site through the WordPress interface with no need for any coding knowledge. The readers can comment on posts, and fill in a contact form which is caught by the Flamingo plugin.
 
 Development Stages
 
