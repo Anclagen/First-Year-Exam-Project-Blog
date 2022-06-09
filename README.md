@@ -2,18 +2,18 @@
 
 ![Homepage Preview](/report_documentation/site_preview.jpg)
 
-Design and create a blog, using WordPress as a headless CMS for the post content, as part of are end of first year exam for Noroff.
+Design and create a blog, using WordPress as a headless CMS for the post content, as part of our end of first year exam for Noroff.
 
 ## Description
 
-The aim of the project was to create a blog website and fill the site content using WordPress CMS. With the additional aim to create a good user experience for the blogger adding content. The website needed to be responsive and easy to navigate. This is the handed in version of the project. The page content is pulled from WordPress. The blogger has the ability to update content on all pages on the site through the WordPress interface with no need for any coding knowledge. The readers can comment on posts, and fill in a contact form which is caught by the Flamingo plugin. 
+The aim of the project was to create a blog website and fill the site content using WordPress CMS. With the additional aim to create a good user experience for the blogger adding content. The website needed to be responsive and easy to navigate. This is the handed in version of the project. The page content is pulled from WordPress. The blogger can update content on all pages on the site through the WordPress interface with no need for any coding knowledge. The readers can comment on posts, and fill in a contact form which is caught by the Flamingo plugin. 
 
 Development Stages
 
-- Design website in adobeXD.
+- Design website in adobe XD.
 - User test XD prototype.
-- Create website using HTML5, CSS3, andJavaScript.
-- Create and configure a WordPress installation to host blog post content.
+- Create website using HTML, CSS, and JavaScript.
+- Create and configure a WordPress installation to server as the CMS for the site.
 - User test and improve the design.
 
 ## Built With
@@ -40,15 +40,17 @@ Development Stages
 
 ## Getting Started
 
-1. Simply clone the repo:
+1. Download the zip of the project or clone the repo with GitHub desktop/the terminal in vsc:
 
 ```bash
 git clone https://github.com/Anclagen/First-Year-Exam-Project-Blog.git
 ```
 
+2. Open in Visual Studio Code and use the Live Server Preview extension to view the site and its content as is.
+
 ## Contributing
 
-This project requires no contrubutions.
+This project requires no contributions. Although any suggestions and feedback are welcomed to help me improve in future projects.
 
 ## Contact
 
@@ -56,6 +58,9 @@ This project requires no contrubutions.
 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/alexander-barrett-64568a47/)
+
+
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:alexanderbarrett189@gmail.com)
 
 ## License
 
@@ -81,6 +86,14 @@ SOFTWARE.
 
 ## Acknowledgments
 
+LearnWebCode, “WordPress REST API Authentication: Application Passwords”, 30 Mar 2022. https://www.youtube.com/watch?v=e_thybKPKHc
+
 ### Accessibility
 
-WebAIM, “Invisible Content Just for Screen Reader Users”, Last updated: Sep 25, 2020. https://webaim.org/techniques/css/invisiblecontent/ [accessed: Mar – 2022]
+WebAIM, “Invisible Content Just for Screen Reader Users”, Last updated: Sep 25, 2020. https://webaim.org/techniques/css/invisiblecontent/
+
+Benjamin Johnson, “Accessible icon buttons”, Sep 02, 2020. https://benjaminjohnson.me/accessible-icon-buttons
+
+Dev, “When role="button" is not enough”, 18 Sept 2020. https://dev.to/tylerjdev/when-role-button-is-not-enough-dac
+
+CSS-Tricks, “KeyboardEvent Value (keyCodes, metaKey, etc)”, last updated: Aug 14, 2019. https://css-tricks.com/snippets/javascript/javascript-keycodes/ 
